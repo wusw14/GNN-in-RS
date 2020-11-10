@@ -57,8 +57,16 @@
 * [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://aaai.org/ojs/index.php/AAAI/article/view/5330/5186)
 * [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://arxiv.org/abs/1912.11730)
 
+
+## MM 20, 19
+* [Quaternion-Based Knowledge Graph Network for Recommendation](https://dl.acm.org/doi/10.1145/3394171.3413992)
+* [Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback](https://dl.acm.org/doi/abs/10.1145/3394171.3413556)
+* [MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](https://dl.acm.org/doi/10.1145/3343031.3351034)
+* 
+
 ## WWW 2019
 * [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks]()
+
 
 ## SIGIR 2019
 * [Graph Intention Network for Click-through Rate Prediction in Sponsored Search](https://dl.acm.org/doi/10.1145/3331184.3331283)
@@ -88,8 +96,7 @@
 ## Others
 * A context-aware citation recommendation model with BERT and graph convolutional networks. Scientometrics 2020
 * Dynamic Graph Collaborative Filtering
-* [Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback](https://dl.acm.org/doi/abs/10.1145/3394171.3413556)
-* 
+* [Multi-Graph Group Collaborative Filtering](https://dl.acm.org/doi/10.1145/3372278.3390715)
 
 
 
