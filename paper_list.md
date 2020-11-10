@@ -17,14 +17,18 @@
 * [Learning to Hash with Graph Neural Networks for Recommender Systems (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3366423.3380266)
 * [DisenHAN - Disentangled Heterogeneous Graph Attention Network for Recommendation (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3411996)
 * [GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3412754)
+* [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403254)
+* [Spectrum-enhanced Pairwise Learning to Rank (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313478)
+* [Dual Channel Hypergraph Collaborative Filtering (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403253)
+* [Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403388)
 
-### with social network
+### With social network
 * [A Neural Influence Diffusion Model for Social Recommendation (SIGIR'19)](https://dl.acm.org/doi/abs/10.1145/3331184.3331214)
 * [Graph Neural Networks for Social Recommendation (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313488)
 * [Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313442)
 * [DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation (TKDE'20)](https://arxiv.org/abs/2002.00844)
 
-### with knowledge graph
+### With knowledge graph
 * [Knowledge Graph Convolutional Networks for Recommender Systems (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313417)
 * [Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems (KDD'19)](https://dl.acm.org/doi/abs/10.1145/3292500.3330836)
 * [KGAT: Knowledge Graph Attention Network for Recommendation (KDD'19)](https://dl.acm.org/doi/abs/10.1145/3292500.3330989)
@@ -35,7 +39,7 @@
 
 ## Sequential Rec.
 
-### without side info
+### Without side info
 * [Session-based Recommendation with Graph Neural Networks (AAAI'19)](https://www.aaai.org/ojs/index.php/AAAI/article/view/3804)
 * [Graph Contextualized Self-Attention Network for Session-based Recommendation (IJCAI'19)](https://www.ijcai.org/Proceedings/2019/0547.pdf)
 * [NISER: Normalized Item and Session Representations to Handle Popularity Bias (CIKM'19)](https://ui.adsabs.harvard.edu/abs/2019arXiv190904276G/abstract)
@@ -44,11 +48,12 @@
 * [Beyond clicks: Modeling multi-relational item graph for session-based target behavior prediction (WWW'20)](https://dl.acm.org/doi/abs/10.1145/3366423.3380077)
 * [Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation (TKDE'19)](https://arxiv.org/abs/1910.08887)
 * [Star Graph Neural Networks for Session-based Recommendation (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3412014)
+* [Handling Information Loss of Graph Neural Networks for Session-based Recommendation (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403170)
 
-### with social network
+### With social network
 * [Session-Based Social Recommendation via Dynamic Graph Attention Networks (WSDM'19)](https://dl.acm.org/doi/abs/10.1145/3289600.3290989)
 
-### with knowledge graph
+### With knowledge graph
 
 ## Other applications
 * [Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3411905)
@@ -58,3 +63,6 @@
 * [Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)
 * [Dressing as a whole: Outfit compatibility learning based on node-wise graph neural networks (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313444)
 * [Set-Sequence-Graph - A Multi-View Approach Towards Exploiting Reviews for Recommendation (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3411939)
+* [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3412695)
+* [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation (KDD'19)](https://dl.acm.org/doi/abs/10.1145/3292500.3330673)
+* [Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403393)
