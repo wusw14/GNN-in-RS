@@ -28,6 +28,7 @@
 * [Handling Information Loss of Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/10.1145/3394486.3403170)
 * [Dual Channel Hypergraph Collaborative Filtering](https://dl.acm.org/doi/10.1145/3394486.3403253)
 * [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://dl.acm.org/doi/10.1145/3394486.3403293)
+* [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394486.3403254)
 
 
 ## SIGIR 2020
@@ -49,13 +50,52 @@
 * [Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3397271.3401174)
 * [Bundle Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3397271.3401198)
 * [Reinforcement Learning based Recommendation with Graph Convolutional Q-network](https://dl.acm.org/doi/abs/10.1145/3397271.3401237)
-* 
+* [A Heterogeneous Graph Neural Model for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401252)
+* [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401319)
 
-### WWW 2019
+## AAAI 2020
+* [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://aaai.org/ojs/index.php/AAAI/article/view/5330/5186)
+* [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://arxiv.org/abs/1912.11730)
+
+## WWW 2019
 * [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks]()
 
+## SIGIR 2019
+* [Graph Intention Network for Click-through Rate Prediction in Sponsored Search](https://dl.acm.org/doi/10.1145/3331184.3331283)
+* 
 
+
+## CIKM 2019
+* [Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](https://dl.acm.org/doi/10.1145/3357384.3357951)
+
+
+## ICDM 2019
+* [Multi-Graph Convolution Collaborative Filtering](https://ieeexplore.ieee.org/iel7/8961330/8970627/08970709.pdf)
+* 
 
 ## arxiv
 * [Basket Recommendation with Multi-Intent Translation Graph Neural Network](https://arxiv.org/abs/2010.11419) IEEE Bigdata 2020
 * [Group-Buying Recommendation for Social E-Commerce](https://arxiv.org/abs/2010.06848) ICDE 2021
+* [Heterogeneous Graph Collaborative Filtering using Textual Information](https://arxiv.org/abs/2010.07027)
+* [DGTN: Dual-channel Graph Transition Network for Session-based Recommendation](https://arxiv.org/pdf/2009.10002.pdf)
+* [Graph Factorization Machines for Cross-Domain Recommendation](https://arxiv.org/abs/2007.05911)
+* [Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/abs/2001.11402)
+* [Inter-sequence Enhanced Framework for Personalized Sequential Recommendation](https://arxiv.org/abs/2004.12118)
+* [GraphAIR: Graph Representation Learning with Neighborhood Aggregation and Interaction](https://arxiv.org/abs/1911.01731). Pattern Recognition
+
+
+
+## Others
+* A context-aware citation recommendation model with BERT and graph convolutional networks. Scientometrics 2020
+* Dynamic Graph Collaborative Filtering
+* [Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback](https://dl.acm.org/doi/abs/10.1145/3394171.3413556)
+* 
+
+
+
+## attack, robust, and defense
+* [Gnnguard: Defending graph neural networks against adversarial attacks](https://proceedings.neurips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html)
+* [A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering](https://arxiv.org/abs/2004.14734)
+* [Robust Graph Convolutional Networks Against Adversarial Attacks](https://dl.acm.org/doi/10.1145/3292500.3330851)
+* [Transferring Robustness for Graph Neural Network Against Poisoning Attacks](https://dl.acm.org/doi/abs/10.1145/3336191.3371851)
+* 
