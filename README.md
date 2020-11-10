@@ -19,6 +19,9 @@
 * [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](https://dl.acm.org/doi/10.1145/3340531.3416021)
 * [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://dl.acm.org/doi/10.1145/3340531.3412695)
 * [GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412754)
+* [Personalized Re-ranking with Item Relationships for E-commerce](https://dl.acm.org/doi/abs/10.1145/3340531.3412332)
+* [Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation](https://dl.acm.org/doi/abs/10.1145/3340531.3411939)
+* 
 
 
 ## KDD 2020
@@ -52,17 +55,47 @@
 * [Reinforcement Learning based Recommendation with Graph Convolutional Q-network](https://dl.acm.org/doi/abs/10.1145/3397271.3401237)
 * [A Heterogeneous Graph Neural Model for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401252)
 * [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401319)
+* [Heterogeneous Graph Neural Network for Recommendation](https://arxiv.org/abs/2009.00799)
+* [Graph Attentive Network for Region Recommendation with POI-and ROI-Level Attention](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_37). APWeb
 
-## AAAI 2020
+
+## AAAI/IJCAI 2020, 2019
 * [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://aaai.org/ojs/index.php/AAAI/article/view/5330/5186)
 * [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://arxiv.org/abs/1912.11730)
+* [Multi-Component Graph Convolutional Collaborative Filtering](https://arxiv.org/abs/1911.10699)
+* [Bilinear Graph Neural Network with Neighbor Interactions](https://www.ijcai.org/Proceedings/2020/0202.pdf)
+* [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://www.ijcai.org/Proceedings/2019/0293.pdf)
+
+## ICML 2020
+* [Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters](https://arxiv.org/abs/2006.15516)
 
 
 ## MM 20, 19
 * [Quaternion-Based Knowledge Graph Network for Recommendation](https://dl.acm.org/doi/10.1145/3394171.3413992)
 * [Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback](https://dl.acm.org/doi/abs/10.1145/3394171.3413556)
 * [MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](https://dl.acm.org/doi/10.1145/3343031.3351034)
+
+
+## ICDE 20
+* [Price-aware Recommendation with Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9101532)
+* [Syndrome-aware Herb Recommendation with Multi-Graph Convolution Network](https://arxiv.org/abs/2002.08575)
+* [Group-Buying Recommendation for Social E-Commerce](https://arxiv.org/pdf/2010.06848.pdf)
+* [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications](https://ieeexplore.ieee.org/abstract/document/9101846)
 * 
+
+## SDM 2020
+* [Stacked Mixed-Order Graph Convolutional Networks for Collaborative Filtering](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.9)
+
+
+## WWW 2020
+* [Graph Enhanced Representation Learning for News Recommendation](https://dl.acm.org/doi/abs/10.1145/3366423.3380050)
+* [Weakly Supervised Attention for Hashtag Recommendation using Graph Data](https://dl.acm.org/doi/10.1145/3366423.3380182)
+* [Learning to Hash with Graph Neural Networks for Recommender Systems](https://dl.acm.org/doi/10.1145/3366423.3380266)
+
+## ACL 2020
+* [Graph Neural News Recommendation with Unsupervised Preference Disentanglement](https://www.aclweb.org/anthology/2020.acl-main.392/)
+*  
+
 
 ## WWW 2019
 * [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks]()
@@ -75,11 +108,12 @@
 
 ## CIKM 2019
 * [Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](https://dl.acm.org/doi/10.1145/3357384.3357951)
+* [Cross-Domain Recommendation via Preference Propagation GraphNet](https://dl.acm.org/doi/abs/10.1145/3357384.3358166)
 
 
 ## ICDM 2019
 * [Multi-Graph Convolution Collaborative Filtering](https://ieeexplore.ieee.org/iel7/8961330/8970627/08970709.pdf)
-* 
+
 
 ## arxiv
 * [Basket Recommendation with Multi-Intent Translation Graph Neural Network](https://arxiv.org/abs/2010.11419) IEEE Bigdata 2020
@@ -90,6 +124,18 @@
 * [Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/abs/2001.11402)
 * [Inter-sequence Enhanced Framework for Personalized Sequential Recommendation](https://arxiv.org/abs/2004.12118)
 * [GraphAIR: Graph Representation Learning with Neighborhood Aggregation and Interaction](https://arxiv.org/abs/1911.01731). Pattern Recognition
+* [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://arxiv.org/abs/2010.12408)
+* [Should Graph Convolution Trust Neighbors? A Simple Causal Inference Method](https://arxiv.org/pdf/2010.11797.pdf)
+* [RGCF: Refined Graph Convolution Collaborative Filtering with concise and expressive embedding](https://arxiv.org/abs/2007.03383)
+* [A^2-GCN: An Attribute-aware Attentive GCN Model for Recommendation](https://arxiv.org/abs/2003.09086)
+* [Temporal Collaborative Filtering with Graph Convolutional Neural Networks](https://arxiv.org/abs/2010.06425)
+* [DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844)
+* [Game Recommendation Based on Dynamic Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_24). DASFAA 2020
+* [Metapath-and Entity-aware Graph Neural Network for Recommendation](https://arxiv.org/abs/2010.11793)
+* [Pairwise Interactive Graph Attention Network for Context-Aware Recommendation](https://arxiv.org/abs/1911.07429)
+* [Deoscillated Graph Collaborative Filtering](https://arxiv.org/abs/2011.02100)
+* [Enhance Social Recommendation with Adversarial Graph Convolutional Networks](https://arxiv.org/abs/2004.02340)
+* 
 
 
 
@@ -97,6 +143,8 @@
 * A context-aware citation recommendation model with BERT and graph convolutional networks. Scientometrics 2020
 * Dynamic Graph Collaborative Filtering
 * [Multi-Graph Group Collaborative Filtering](https://dl.acm.org/doi/10.1145/3372278.3390715)
+* [GAMMA: A Graph and Multi-view Memory Attention Mechanism for Top-N Heterogeneous Recommendation](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_3) PAKDD
+* [Neural graph personalized ranking for Top-N Recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305554)
 
 
 
