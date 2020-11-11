@@ -21,7 +21,7 @@
 * [GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412754)
 * [Personalized Re-ranking with Item Relationships for E-commerce](https://dl.acm.org/doi/abs/10.1145/3340531.3412332)
 * [Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation](https://dl.acm.org/doi/abs/10.1145/3340531.3411939)
-* 
+* [DREAM: A Dynamic Relational-Aware Model for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3340531.3412115)
 
 
 ## KDD 2020
@@ -109,6 +109,7 @@
 ## CIKM 2019
 * [Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](https://dl.acm.org/doi/10.1145/3357384.3357951)
 * [Cross-Domain Recommendation via Preference Propagation GraphNet](https://dl.acm.org/doi/abs/10.1145/3357384.3358166)
+* [Relation-Aware Graph Convolutional Networks for Agent-Initiated Social E-Commerce Recommendation](https://dl.acm.org/doi/abs/10.1145/3357384.3357924)
 
 
 ## ICDM 2019
