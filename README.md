@@ -114,6 +114,12 @@
 ## ICDM 2019
 * [Multi-Graph Convolution Collaborative Filtering](https://ieeexplore.ieee.org/iel7/8961330/8970627/08970709.pdf)
 
+## Recsys 19
+* [Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/abs/1908.02569)
+
+## ECML/PKDD 19
+* [SoRecGAT: Leveraging Graph Attention Mechanism for Top-N Social Recommendation](https://ecmlpkdd2019.org/downloads/paper/475.pdf)
+* 
 
 ## arxiv
 * [Basket Recommendation with Multi-Intent Translation Graph Neural Network](https://arxiv.org/abs/2010.11419) IEEE Bigdata 2020
@@ -135,7 +141,7 @@
 * [Pairwise Interactive Graph Attention Network for Context-Aware Recommendation](https://arxiv.org/abs/1911.07429)
 * [Deoscillated Graph Collaborative Filtering](https://arxiv.org/abs/2011.02100)
 * [Enhance Social Recommendation with Adversarial Graph Convolutional Networks](https://arxiv.org/abs/2004.02340)
-* 
+* [Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks](https://arxiv.org/abs/1912.12398)
 
 
 
@@ -145,6 +151,10 @@
 * [Multi-Graph Group Collaborative Filtering](https://dl.acm.org/doi/10.1145/3372278.3390715)
 * [GAMMA: A Graph and Multi-view Memory Attention Mechanism for Top-N Heterogeneous Recommendation](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_3) PAKDD
 * [Neural graph personalized ranking for Top-N Recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305554)
+* [Learning from Multiple Graphs of Student and Book Interactions for Campus Book Recommendation](https://link.springer.com/chapter/10.1007/978-3-030-62008-0_22)
+* [Hybrid graph convolutional networks with multi-head attention for location recommendation](https://link.springer.com/article/10.1007/s11280-020-00824-9)
+* [MGAT: Multimodal Graph Attention Network for Recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0306457320300182)
+* [Enhancing session-based social recommendation through item graph embedding and contextual friendship modeling](https://www.sciencedirect.com/science/article/pii/S0925231220312832)
 
 
 
@@ -153,4 +163,6 @@
 * [A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering](https://arxiv.org/abs/2004.14734)
 * [Robust Graph Convolutional Networks Against Adversarial Attacks](https://dl.acm.org/doi/10.1145/3292500.3330851)
 * [Transferring Robustness for Graph Neural Network Against Poisoning Attacks](https://dl.acm.org/doi/abs/10.1145/3336191.3371851)
+* [SocialTrans: A Deep Sequential Model with Social Information for Web-Scale Recommendation Systems](https://arxiv.org/abs/2005.04361)
+* [Addressing Cold Start in Recommender Systems with Hierarchical Graph Neural Networks](https://arxiv.org/abs/2009.03455)
 * 
