@@ -28,6 +28,7 @@
 * [Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403388)
 * [Graph Enhanced Representation Learning for News Recommendation (WWW'20)](https://dl.acm.org/doi/abs/10.1145/3366423.3380050)
 * [Neighbor Interaction Aware Graph Convolution Networks for Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401123)
+* [Deoscillated Graph Collaborative Filtering (arxiv'20)](https://arxiv.org/abs/2011.02100)
 
 ### With social network
 * [A Neural Influence Diffusion Model for Social Recommendation (SIGIR'19)](https://dl.acm.org/doi/abs/10.1145/3331184.3331214)
@@ -62,6 +63,8 @@
 * [Handling Information Loss of Graph Neural Networks for Session-based Recommendation (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403170)
 * [GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401109)
 * [Global Context Enhanced Graph Neural Networks for Session-based Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401142)
+* [Inter-sequence Enhanced Framework for Personalized Sequential Recommendation (AAAI'20)](https://arxiv.org/abs/2004.12118)
+* [DGTN: Dual-channel Graph Transition Network for Session-based Recommendation (arxiv'20)](https://arxiv.org/abs/2009.10002)
 
 ### With social network
 * [Session-Based Social Recommendation via Dynamic Graph Attention Networks (WSDM'19)](https://dl.acm.org/doi/abs/10.1145/3289600.3290989)
@@ -74,8 +77,10 @@
 * [Fi-gnn: Modeling feature interactions via graph neural networks for ctr prediction (CIKM'19)](https://dl.acm.org/doi/abs/10.1145/3357384.3357951)
 * [Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks](https://arxiv.org/abs/1912.12398)
 * [Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)
+* [Cross-Domain Recommendation via Preference Propagation GraphNet (CIKM'19)](https://dl.acm.org/doi/abs/10.1145/3357384.3358166)
 * [Dressing as a whole: Outfit compatibility learning based on node-wise graph neural networks (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313444)
 * [Bundle Recommendation with Graph Convolutional Networks (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401198)
+* [Basket Recommendation with Multi-Intent Translation Graph Neural Network (arxiv'20)](https://arxiv.org/abs/2010.11419)
 * [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation (SIGIR'20)](https://arxiv.org/abs/2005.12566)
 * [GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401064)
 * [Group-Aware Long-and Short-Term Graph Representation Learning for Sequential Group Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401136)
@@ -84,3 +89,4 @@
 * [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation (KDD'19)](https://dl.acm.org/doi/abs/10.1145/3292500.3330673)
 * [Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403393)
 * [GMCM: Graph-based Micro-behavior Conversion Model for Post-click Conversion Rate Estimation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401425)
+* [Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation (RecSys'19)](https://arxiv.org/abs/1908.02569)
