@@ -10,6 +10,7 @@
 * [STAR-GCN: stacked and reconstructed graph convolutional networks for recommender systems (IJCAI'19)](https://dl.acm.org/citation.cfm?id=3367634)
 * [Hierarchical Representation Learning for Bipartite Graphs (IJCAI'19)](https://www.ijcai.org/Proceedings/2019/0398.pdf)
 * [MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video (MM'19)](https://dl.acm.org/doi/abs/10.1145/3343031.3351034)
+* [Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback (MM'20)](https://dl.acm.org/doi/abs/10.1145/3394171.3413556)
 * [Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation (SIGIR'20)](https://arxiv.org/abs/2005.11724)
 * [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach (AAAI'20)](https://www.aaai.org/ojs/index.php/AAAI/article/view/5330)
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20)](https://arxiv.org/abs/2002.02126)
@@ -29,6 +30,7 @@
 * [Graph Enhanced Representation Learning for News Recommendation (WWW'20)](https://dl.acm.org/doi/abs/10.1145/3366423.3380050)
 * [Neighbor Interaction Aware Graph Convolution Networks for Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401123)
 * [Deoscillated Graph Collaborative Filtering (arxiv'20)](https://arxiv.org/abs/2011.02100)
+* [Graph Convolution Machine for Context-aware Recommender System (arxiv'20)](https://arxiv.org/abs/2001.11402)
 
 ### With social network
 * [A Neural Influence Diffusion Model for Social Recommendation (SIGIR'19)](https://dl.acm.org/doi/abs/10.1145/3331184.3331214)
@@ -36,6 +38,7 @@
 * [Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313442)
 * [DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation (TKDE'20)](https://arxiv.org/abs/2002.00844)
 * [A Heterogeneous Graph Neural Model for Cold-start Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401252)
+* [Enhancing Social Recommendation with Adversarial Graph Convolutional Networks (TKDE'20)](https://arxiv.org/abs/2004.02340)
 
 ### With knowledge graph
 * [Knowledge Graph Convolutional Networks for Recommender Systems (WWW'19)](https://dl.acm.org/doi/abs/10.1145/3308558.3313417)
@@ -45,8 +48,10 @@
 * [Attentive Knowledge Graph Embedding for Personalized Recommendation](https://arxiv.org/abs/1910.08288)
 * [Multi-modal Knowledge Graphs for Recommender Systems (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3411947)
 * [TGCN: Tag Graph Convolutional Network for Tag-Aware Recommendation (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3411927)
+* [A^ 2-GCN: An Attribute-aware Attentive GCN Model for Recommendation (TKDE'20)](https://arxiv.org/abs/2003.09086)
 * [ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation (SIGIR'20)](https://arxiv.org/abs/2005.12002)
 * [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401057)
+* [Quaternion-Based Knowledge Graph Network for Recommendation (MM'20)](https://dl.acm.org/doi/abs/10.1145/3394171.3413992)
 
 ## Sequential Rec.
 
@@ -70,6 +75,7 @@
 * [Session-Based Social Recommendation via Dynamic Graph Attention Networks (WSDM'19)](https://dl.acm.org/doi/abs/10.1145/3289600.3290989)
 
 ### With knowledge graph
+* [Knowledge-Enhanced Graph Neural Networks for Sequential Recommendation (MDPI'20)](https://www.mdpi.com/2078-2489/11/8/388)
 
 ## Other applications
 * [Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation (CIKM'20)](https://dl.acm.org/doi/abs/10.1145/3340531.3411905)
