@@ -31,6 +31,7 @@
 * GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3412754)]
 * Inductive Matrix Completion Based on Graph Neural Networks [[doc](https://arxiv.org/abs/1904.1205)][[code](https://github.com/muhanzhang/IGMC)]
 
+
 ## Sequential recommendation
 
 * Sequential Recommendation with Graph Neural Networks [[doc](https://arxiv.org/pdf/2106.14226.pdf)]
@@ -38,12 +39,15 @@
 Dimensional Integration [[doc](https://dl.acm.org/doi/abs/10.1145/3404835.3462866)]
 * Handling Information Loss of Graph Neural Networks for Session-based Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3394486.3403170)] [[code](https://github.com/twchen/lessr)]
 * NISER: Normalized Item and Session Representations to Handle Popularity Bias [[doc](https://ui.adsabs.harvard.edu/abs/2019arXiv190904276G/abstract)]
+
+
 * Memory Augmented Graph Neural Networks for Sequential Recommendation [[doc](https://arxiv.org/abs/1912.11730)]
 * Star Graph Neural Networks for Session-based Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3412014)]
 * Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [[doc](https://dl.acm.org/doi/abs/10.1145/3357384.3358010)]
 * GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401109)]
 * Session-based Recommendation with Hypergraph Attention Networks [[doc](http://people.tamu.edu/~jwang713/pubs/SHARE-sdm2021.pdf)]
 * Beyond clicks: Modeling multi-relational item graph for session-based target behavior prediction [[doc](https://dl.acm.org/doi/abs/10.1145/3366423.3380077)]
+
 * Global Context Enhanced Graph Neural Networks for Session-based Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401142)]
 * Session-based Recommendation with Graph Neural Networks [[doc](https://www.aaai.org/ojs/index.php/AAAI/article/view/3804)] [[code](https://github.com/CRIPAC-DIG/SR-GNN)]
 * Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation [[doc](https://arxiv.org/abs/1910.08887)] [[code](https://github.com/CRIPAC-DIG/A-PGNN)]
