@@ -15,21 +15,21 @@
 * Joint Item Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network Approach [doc](https://arxiv.org/abs/2005.12021)
 
 
-* [Dual Channel Hypergraph Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3394486.3403253)
-* [Deoscillated Graph Collaborative Filtering](https://arxiv.org/abs/2011.02100)[[code](https://github.com/JimLiu96/DeosciRec)]
-* [Multi-graph Convolution Collaborative Filtering](https://arxiv.org/pdf/2001.00267.pdf)
+* Dual Channel Hypergraph Collaborative Filtering [doc](https://dl.acm.org/doi/abs/10.1145/3394486.3403253)
+* Deoscillated Graph Collaborative Filtering [doc](https://arxiv.org/abs/2011.02100)[[code](https://github.com/JimLiu96/DeosciRec)]
+* Multi-graph Convolution Collaborative Filtering [doc](https://arxiv.org/pdf/2001.00267.pdf)
 
-* [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Application](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b677/290300b677.pdf)
-* [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401123)
-* [Disentangled Graph Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3397271.3401137)[[code](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)]
-* [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3219819.3219890)
+* Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Application [doc](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b677/290300b677.pdf)
+* Neighbor Interaction Aware Graph Convolution Networks for Recommendation [doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401123)
+* Disentangled Graph Collaborative Filtering [doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401137)[[code](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)]
+* Graph Convolutional Neural Networks for Web-Scale Recommender Systems [doc](https://dl.acm.org/doi/abs/10.1145/3219819.3219890)
 
-* [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3397271.3401072)
-* [Multi-Component Graph Convolutional Collaborative Filtering](https://arxiv.org/abs/1911.10699)
-* [DisenHAN - Disentangled Heterogeneous Graph Attention Network for Recommendation](https://dl.acm.org/doi/abs/10.1145/3340531.3411996)
-* [Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/abs/2001.11402)
-* [GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3340531.3412754)
-* [Inductive Matrix Completion Based on Graph Neural Networks](https://arxiv.org/abs/1904.1205)[[code](https://github.com/muhanzhang/IGMC)]
+* Multi-behavior Recommendation with Graph Convolutional Networks [doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401072)
+* Multi-Component Graph Convolutional Collaborative Filtering [doc](https://arxiv.org/abs/1911.10699)
+* DisenHAN - Disentangled Heterogeneous Graph Attention Network for Recommendation [doc](https://dl.acm.org/doi/abs/10.1145/3340531.3411996)
+* Graph Convolution Machine for Context-aware Recommender System [doc](https://arxiv.org/abs/2001.11402)
+* GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems [doc](https://dl.acm.org/doi/abs/10.1145/3340531.3412754)
+* Inductive Matrix Completion Based on Graph Neural Networks [doc](https://arxiv.org/abs/1904.1205)[[code](https://github.com/muhanzhang/IGMC)]
 
 ## Sequential recommendation
 
