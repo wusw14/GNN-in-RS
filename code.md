@@ -20,7 +20,7 @@
 * [Multi-graph Convolution Collaborative Filtering](https://arxiv.org/pdf/2001.00267.pdf)
 
 * [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Application](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b677/290300b677.pdf)
-* [Neighbor Interaction Aware Graph Convolution Networks for Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401123)
+* [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401123)
 * [Disentangled Graph Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3397271.3401137)[[code](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)]
 * [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3219819.3219890)
 
@@ -32,6 +32,26 @@
 * [Inductive Matrix Completion Based on Graph Neural Networks](https://arxiv.org/abs/1904.1205)[[code](https://github.com/muhanzhang/IGMC)]
 
 ## Sequential recommendation
+
+* [Sequential Recommendation with Graph Neural Networks](https://arxiv.org/pdf/2106.14226.pdf)
+* [Dual Attention Transfer in Session-Based Recommendation with Multi-
+Dimensional Integration](https://dl.acm.org/doi/abs/10.1145/3404835.3462866)
+* [Handling Information Loss of Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3394486.3403170) [[code](https://github.com/twchen/lessr)]
+* [NISER: Normalized Item and Session Representations to Handle Popularity Bias](https://ui.adsabs.harvard.edu/abs/2019arXiv190904276G/abstract)
+* [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://arxiv.org/abs/1912.11730)
+* [Star Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3340531.3412014)
+* [Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3357384.3358010)
+* [GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401109)
+* [Session-based Recommendation with Hypergraph Attention Networks](http://people.tamu.edu/~jwang713/pubs/SHARE-sdm2021.pdf)
+* [Beyond clicks: Modeling multi-relational item graph for session-based target behavior prediction (WWW'20)](https://dl.acm.org/doi/abs/10.1145/3366423.3380077)
+* [Global Context Enhanced Graph Neural Networks for Session-based Recommendation (SIGIR'20)](https://dl.acm.org/doi/abs/10.1145/3397271.3401142)
+* [Session-based Recommendation with Graph Neural Networks (AAAI'19)](https://www.aaai.org/ojs/index.php/AAAI/article/view/3804) [[code](https://github.com/CRIPAC-DIG/SR-GNN)]
+* [Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation (TKDE'19)](https://arxiv.org/abs/1910.08887) [[code](https://github.com/CRIPAC-DIG/A-PGNN)]
+* [Self-Supervised Graph Co-Training for Session-Based Recommendation](https://arxiv.org/pdf/2108.10560.pdf) 
+* [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/16578/16385) [[code](https://github.com/xiaxin1998/DHCN)]
+* [Graph Contextualized Self-Attention Network for Session-based Recommendation (IJCAI'19)](https://www.ijcai.org/Proceedings/2019/0547.pdf)
+* [DGTN: Dual-channel Graph Transition Network for Session-based Recommendation (arxiv'20)](https://arxiv.org/abs/2009.10002)
+* [Temporal Augmented Graph Neural Networks for Session-Based Recommendations](https://dl.acm.org/doi/abs/10.1145/3404835.3463112) [[code](https://github.com/CRIPAC-DIG/TAGNN)]
 
 ## Social recommendation
 
