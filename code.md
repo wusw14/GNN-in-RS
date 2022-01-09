@@ -3,6 +3,7 @@
 
 ## User-item CF
 
+### Graph Construction
 * [Graph convolutional matrix completion](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf) 
 * [Spectral Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3240323.3240343) [[code](https://github.com/lzheng21/SpectralCF)]
 * [STAR-GCN: stacked and reconstructed graph convolutional networks for recommender systems](https://dl.acm.org/citation.cfm?id=3367634) [[code](https://github.com/jennyzhang0215/STAR-GCN)]
@@ -14,6 +15,10 @@
 * [Binarized collaborative filtering with distilling graph convolutional networks](https://www.ijcai.org/Proceedings/2019/0667.pdf)
 * [ Joint Item Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network Approach](https://arxiv.org/abs/2005.12021)
 
+
+* [Dual Channel Hypergraph Collaborative Filtering (KDD'20)](https://dl.acm.org/doi/abs/10.1145/3394486.3403253)
+* [Deoscillated Graph Collaborative Filtering (arxiv'20)](https://arxiv.org/abs/2011.02100)[[code](https://github.com/JimLiu96/DeosciRec)]
+* [Multi-graph Convolution Collaborative Filtering](https://arxiv.org/pdf/2001.00267.pdf)
 
 ## Sequential recommendation
 
