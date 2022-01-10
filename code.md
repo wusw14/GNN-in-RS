@@ -59,4 +59,21 @@ Dimensional Integration [[doc](https://dl.acm.org/doi/abs/10.1145/3404835.346286
 
 ## Social recommendation
 
+* Temporal Graph Neural Networks for Social Recommendation [[doc](https://ieeexplore.ieee.org/document/9378444/)] 
+* An Efficient and Effective Framework for Session-Based Social Recommendation [[doc](https://dl.acm.org/doi/10.1145/3437963.3441792)] [[code](https://github.com/twchen/SEFrame)]
+* Graph Neural Networks for Social Recommendation [[doc](https://arxiv.org/pdf/1902.07243.pdf)] [[code](https://github.com/wenqifan03/GraphRec-WWW19)]
+
+
+* A deep graph neural network-based mechanism for social recommendations [[doc](https://ieeexplore.ieee.org/abstract/document/9063418/)] 
+* Graph Attention Networks for Neural Social Recommendation [[doc](https://ieeexplore.ieee.org/iel7/8970220/8995176/08995280.pdf)]
+* Social Recommendation with Implicit Social Influence [[doc](https://dl.acm.org/doi/pdf/10.1145/3404835.3463043)]
+* Session-based social recommendation via dynamic graph attention networks [[doc](https://arxiv.org/abs/1902.09362)] [[code](https://github.com/DeepGraphLearning/RecommenderSystems)]
+* Diffnet++: A neural influence and interest diffusion network for social recommendation [[doc](https://arxiv.org/pdf/2002.00844)] 
+* A Neural Influence Diffusion Model for Social Recommendation [[doc](https://arxiv.org/abs/1904.10322)] [[code](https://github.com/PeiJieSun/diffnet)]
+* Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems [[doc](https://dl.acm.org/doi/10.1145/3308558.3313442)] [[code](https://github.com/echo740/DANSER-WWW-19)]
+* Global Context Enhanced Social Recommendation with Hierarchical Graph Neural Networks [[doc](https://dl.acm.org/doi/10.1145/3397271.3401142)] [[code](https://github.com/xhcdream/SR-HGNN)]
+* Enhance Social Recommendation with Adversarial Graph Convolutional Networks [[doc](https://arxiv.org/abs/2004.02340)] 
+
+
+
 ## Knowledge-graph enhanced recommendation
