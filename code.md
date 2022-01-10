@@ -77,3 +77,21 @@ Dimensional Integration [[doc](https://dl.acm.org/doi/abs/10.1145/3404835.346286
 
 
 ## Knowledge-graph enhanced recommendation
+* Knowledge Graph Convolutional Networks for Recommender Systems [[doc](https://dl.acm.org/doi/abs/10.1145/3308558.3313417)] [[code](https://github.com/hwwang55/KGCN)]
+* Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems  [[doc](https://dl.acm.org/doi/abs/10.1145/3292500.3330836)]
+* KGAT: Knowledge Graph Attention Network for Recommendation  [[doc](https://dl.acm.org/doi/abs/10.1145/3292500.3330989)] [[code](https://github.com/xiangwang1223/knowledge_graph_attention_network)]
+* IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation  [[doc](https://dl.acm.org/doi/abs/10.1145/3292500.3330686)]
+
+
+* Attentive Knowledge Graph Embedding for Personalized Recommendation [[doc](https://arxiv.org/abs/1910.08288)]
+* Multi-modal Knowledge Graphs for Recommender Systems [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3411947)]
+* TGCN: Tag Graph Convolutional Network for Tag-Aware Recommendation  [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3411927)]
+* A^2-GCN: An Attribute-aware Attentive GCN Model for Recommendation [[doc](https://arxiv.org/abs/2003.09086)]
+* ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation  [[doc](https://arxiv.org/abs/2005.12002)]
+* Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View  [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401057)]
+* Quaternion-Based Knowledge Graph Network for Recommendation  [[doc](https://dl.acm.org/doi/abs/10.1145/3394171.3413992)]
+* Knowledge-Enhanced Graph Neural Networks for Sequential Recommendation  [[doc](https://www.mdpi.com/2078-2489/11/8/388)]
+* An End-to-End Neighborhood-based Interaction Model for Knowledge-enhanced Recommendation [[doc](https://dl.acm.org/doi/10.1145/3326937.3341257)]
+* CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems [[doc](https://dl.acm.org/doi/10.1145/3397271.3401141)] [[code](https://github.com/weberrr/CKAN)]
+* Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation [[doc](https://ojs.aaai.org/index.php/AAAI/article/view/16576/16383)] [[code](https://github.com/akaxlh/KHGT)]
+* Learning Intents behind Interactions with Knowledge Graph for Recommendation [[doc](https://dl.acm.org/doi/10.1145/3442381.3450133)] [[code](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network)]
