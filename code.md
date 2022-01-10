@@ -107,9 +107,9 @@ Dimensional Integration [[doc](https://dl.acm.org/doi/abs/10.1145/3404835.346286
 
 * Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)]
 * Cross-Domain Recommendation via Preference Propagation GraphNet [[doc](https://dl.acm.org/doi/abs/10.1145/3357384.3358166)]
-* Dressing as a whole: Outfit compatibility learning based on node-wise graph neural networks [[doc](https://dl.acm.org/doi/abs/10.1145/3308558.3313444)]
-* Bundle Recommendation with Graph Convolutional Networks (SIGIR'20) [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401198)]
-* Basket Recommendation with Multi-Intent Translation Graph Neural Network [[doc](https://arxiv.org/abs/2010.11419)]
+* Dressing as a whole: Outfit compatibility learning based on node-wise graph neural networks [[doc](https://dl.acm.org/doi/abs/10.1145/3308558.3313444)] [[code](https://github.com/CRIPAC-DIG/NGNN)]
+* Bundle Recommendation with Graph Convolutional Networks (SIGIR'20) [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401198)] [[code](https://github.com/cjx0525/BGCN)]
+* Basket Recommendation with Multi-Intent Translation Graph Neural Network [[doc](https://arxiv.org/abs/2010.11419)] [[code](https://github.com/JimLiu96/MITGNN)]
 * Hierarchical Fashion Graph Network for Personalized Outfit Recommendation [[doc](https://arxiv.org/abs/2005.12566)]
 * GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401064)]
 * Group-Aware Long-and Short-Term Graph Representation Learning for Sequential Group Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401136)]
