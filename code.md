@@ -95,3 +95,27 @@ Dimensional Integration [[doc](https://dl.acm.org/doi/abs/10.1145/3404835.346286
 * CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems [[doc](https://dl.acm.org/doi/10.1145/3397271.3401141)] [[code](https://github.com/weberrr/CKAN)]
 * Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation [[doc](https://ojs.aaai.org/index.php/AAAI/article/view/16576/16383)] [[code](https://github.com/akaxlh/KHGT)]
 * Learning Intents behind Interactions with Knowledge Graph for Recommendation [[doc](https://dl.acm.org/doi/10.1145/3442381.3450133)] [[code](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network)]
+
+
+## Others
+
+* Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3411905)]
+* STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3411876)]
+* Fi-gnn: Modeling feature interactions via graph neural networks for ctr prediction [[doc](https://dl.acm.org/doi/abs/10.1145/3357384.3357951)] [[code](https://github.com/CRIPAC-DIG/FiGNN)]
+* Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks [[doc](https://arxiv.org/abs/1912.12398)]
+
+
+* Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)]
+* Cross-Domain Recommendation via Preference Propagation GraphNet [[doc](https://dl.acm.org/doi/abs/10.1145/3357384.3358166)]
+* Dressing as a whole: Outfit compatibility learning based on node-wise graph neural networks [[doc](https://dl.acm.org/doi/abs/10.1145/3308558.3313444)]
+* Bundle Recommendation with Graph Convolutional Networks (SIGIR'20) [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401198)]
+* Basket Recommendation with Multi-Intent Translation Graph Neural Network [[doc](https://arxiv.org/abs/2010.11419)]
+* Hierarchical Fashion Graph Network for Personalized Outfit Recommendation [[doc](https://arxiv.org/abs/2005.12566)]
+* GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401064)]
+* Group-Aware Long-and Short-Term Graph Representation Learning for Sequential Group Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401136)]
+* Set-Sequence-Graph - A Multi-View Approach Towards Exploiting Reviews for Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3411939)]
+* Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items [[doc](https://dl.acm.org/doi/abs/10.1145/3340531.3412695)]
+* Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation [[doc](https://dl.acm.org/doi/abs/10.1145/3292500.3330673)]
+* Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce [[doc](https://dl.acm.org/doi/abs/10.1145/3394486.3403393)]
+* GMCM: Graph-based Micro-behavior Conversion Model for Post-click Conversion Rate Estimation [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401425)]
+* Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation [[doc](https://arxiv.org/abs/1908.02569)]
